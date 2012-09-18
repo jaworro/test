@@ -7,6 +7,7 @@
     <body>
         <?php
             echo 'Hello World!';
+            echo 'Branch two';
         ?>
     </body>
 </html>
