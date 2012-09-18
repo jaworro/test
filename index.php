@@ -8,6 +8,7 @@
         <?php
             echo 'Hello World!';
             echo 'ABC';
+            echo 'B';
         ?>
     </body>
 </html>
